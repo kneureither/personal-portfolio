@@ -17,7 +17,7 @@ const sections = [
     title: "Research",
     items: [
       "Focus areas: physics-informed AI, molecular ML potentials, Particle-in-Cell simulations, and the hydrogen problem.",
-      "Visiting researcher at Stanford University and SLAC National Accelerator Laboratory (March 2025 – October 2025), under Siegfied Glenzer.",
+      "Visiting researcher at Stanford University and SLAC National Accelerator Laboratory (March 2025 – October 2025), under Siegfried Glenzer.",
     ],
   },
   {
